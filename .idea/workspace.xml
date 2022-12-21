@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4eaa0865-a26a-4a16-9286-5f1c09f6da76" name="Changes" comment="Task 38">
-      <change afterPath="$PROJECT_DIR$/src/DivideTwoIntegers_29.java" afterDir="false" />
-    </list>
+    <list default="true" id="4eaa0865-a26a-4a16-9286-5f1c09f6da76" name="Changes" comment="Task 28" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +42,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671644363328</updated>
-      <workItem from="1671644364735" duration="894000" />
+      <workItem from="1671644364735" duration="1242000" />
     </task>
     <task id="LOCAL-00001" summary="Task 2">
       <created>1671644668130</created>
@@ -81,7 +79,28 @@
       <option name="project" value="LOCAL" />
       <updated>1671645145242</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Task 29">
+      <created>1671645327033</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1671645327033</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Task 34">
+      <created>1671645444134</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1671645444137</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Task 28">
+      <created>1671645574206</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1671645574206</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +123,9 @@
     <MESSAGE value="Task 40" />
     <MESSAGE value="Task 11" />
     <MESSAGE value="Task 38" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 38" />
+    <MESSAGE value="Task 29" />
+    <MESSAGE value="Task 34" />
+    <MESSAGE value="Task 28" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 28" />
   </component>
 </project>
