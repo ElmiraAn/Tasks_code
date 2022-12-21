@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4eaa0865-a26a-4a16-9286-5f1c09f6da76" name="Changes" comment="Task 31">
-      <change afterPath="$PROJECT_DIR$/src/Permutations_46.java" afterDir="false" />
+    <list default="true" id="4eaa0865-a26a-4a16-9286-5f1c09f6da76" name="Changes" comment="Task 19">
+      <change afterPath="$PROJECT_DIR$/src/ReverseInteger_7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671644363328</updated>
-      <workItem from="1671644364735" duration="2744000" />
+      <workItem from="1671644364735" duration="3098000" />
     </task>
     <task id="LOCAL-00001" summary="Task 2">
       <created>1671644668130</created>
@@ -172,7 +172,35 @@
       <option name="project" value="LOCAL" />
       <updated>1671647032479</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Task 46">
+      <created>1671647152711</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1671647152711</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Task 47">
+      <created>1671647251431</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1671647251431</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Task 50">
+      <created>1671647323296</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1671647323296</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Task 19">
+      <created>1671647405009</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1671647405009</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,6 +236,10 @@
     <MESSAGE value="Task 3" />
     <MESSAGE value="Task 43" />
     <MESSAGE value="Task 31" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 31" />
+    <MESSAGE value="Task 46" />
+    <MESSAGE value="Task 47" />
+    <MESSAGE value="Task 50" />
+    <MESSAGE value="Task 19" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 19" />
   </component>
 </project>
