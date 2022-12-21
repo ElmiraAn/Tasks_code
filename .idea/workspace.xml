@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4eaa0865-a26a-4a16-9286-5f1c09f6da76" name="Changes" comment="Task 45" />
+    <list default="true" id="4eaa0865-a26a-4a16-9286-5f1c09f6da76" name="Changes" comment="Task 5">
+      <change afterPath="$PROJECT_DIR$/src/LongestSubstringWithoutRepeatingCharacters_3.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671644363328</updated>
-      <workItem from="1671644364735" duration="1977000" />
+      <workItem from="1671644364735" duration="2383000" />
     </task>
     <task id="LOCAL-00001" summary="Task 2">
       <created>1671644668130</created>
@@ -135,7 +137,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671646239331</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Task 17">
+      <created>1671646488865</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1671646488865</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Task 5">
+      <created>1671646668508</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1671646668508</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,6 +182,8 @@
     <MESSAGE value="Task 49" />
     <MESSAGE value="Task 12" />
     <MESSAGE value="Task 45" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 45" />
+    <MESSAGE value="Task 17" />
+    <MESSAGE value="Task 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 5" />
   </component>
 </project>
