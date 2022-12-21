@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4eaa0865-a26a-4a16-9286-5f1c09f6da76" name="Changes" comment="Task 8">
-      <change afterPath="$PROJECT_DIR$/src/ThreeSum_15.java" afterDir="false" />
+    <list default="true" id="4eaa0865-a26a-4a16-9286-5f1c09f6da76" name="Changes" comment="Task 36">
+      <change afterPath="$PROJECT_DIR$/src/ZigzagConversion_6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671644363328</updated>
-      <workItem from="1671644364735" duration="3404000" />
+      <workItem from="1671644364735" duration="3749000" />
     </task>
     <task id="LOCAL-00001" summary="Task 2">
       <created>1671644668130</created>
@@ -228,7 +228,35 @@
       <option name="project" value="LOCAL" />
       <updated>1671647734547</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Task 15">
+      <created>1671647810679</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1671647810679</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Task 16">
+      <created>1671647891071</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1671647891071</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Task 20">
+      <created>1671647984585</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1671647984585</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Task 36">
+      <created>1671648086574</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1671648086574</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,10 +274,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Task 39" />
-    <MESSAGE value="Task 40" />
-    <MESSAGE value="Task 11" />
-    <MESSAGE value="Task 38" />
     <MESSAGE value="Task 29" />
     <MESSAGE value="Task 34" />
     <MESSAGE value="Task 28" />
@@ -271,6 +295,10 @@
     <MESSAGE value="Task 48" />
     <MESSAGE value="Task 33" />
     <MESSAGE value="Task 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 8" />
+    <MESSAGE value="Task 15" />
+    <MESSAGE value="Task 16" />
+    <MESSAGE value="Task 20" />
+    <MESSAGE value="Task 36" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 36" />
   </component>
 </project>
